@@ -17,7 +17,7 @@ With a simple line of code you can easily embed your catalog into your site.
 == Installation ==
 
 1. To install this plugin in wordpress simply download the epaperflip_embed file and upload it to your wp-content/plugins folder
-so the complete path would be wwwwroot/sitename/wp-content/plugins/epaperflip_embed/epaperflip_embed.php
+so the complete path would be wwwwroot/sitename/wp-content/plugins/ePaperflip Publisher/ePaperflip Publisher.php
 
 2. Activate the plugin in your WordPress plugins page.  This can be found on WordPress administration page sidebar.
  
@@ -35,7 +35,7 @@ ie.
 [epaperflip_embed publicationid="12039c46-934b-4a5c-98c8-a495016b3293" dimension="percentage" width="80" height="100" center="false" disableflash="true"] 
 
 REQUIRED: 
-You must provide one of the following two fields.  
+You must provide one of the following two fields.  <br>
 1. docid : (Default null) String value used to target the document you wish to display 
 2. publicationid : (Default null) String value used to target a specific publication and  display the most recently published catalog  
 
